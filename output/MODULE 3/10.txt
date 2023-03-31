@@ -1,0 +1,15 @@
+Neural Network Based Adaptive Control, 1:08
+Lyapunov Based Control and Vector V Control, 10:15
+Lyapunov Based Design, 11:57
+Design a Feedback Control Law, 12:11
+Motivation, 13:25
+Design a Control Action, 15:40
+Strict Feedback Form, 27:18
+The Back Stepping Method, 28:43
+Back Stepping Control, 28:59
+Why It Is Back Stepping, 31:17
+Back Stepping Control Using Neural Network, 31:51
+Tracking Controller, 32:40
+Closed Loop Error Dynamics, 36:21
+Observations, 56:59
+Summary, 57:17

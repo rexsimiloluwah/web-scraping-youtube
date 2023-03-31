@@ -1,0 +1,14 @@
+Conventional Training Algorithms, 5:28
+Cost function as a function of weight, 6:53
+Gradient Descent Algorithm, 10:23
+Gradient descent: Example, 15:59
+Newton's Method: Example, 26:17
+Quasi-Newton method (QNM), 30:57
+Quasi-Newton method - Example, 34:23
+Conjugate-Gradient method, 38:16
+Conjugate gradient method, 42:10
+Conjugate gradient: The algorithm, 42:57
+Conjugate Gradient: Example, 45:20
+Conjugate gradient: Discussions, 48:10
+LF Algorithms: Example, 54:56
+Summary, 58:10

@@ -1,0 +1,24 @@
+Intro, 0:00
+Representation of a nonlinear system, 1:30
+Identifying the linear model parameters, 13:20
+Fuzzy Neural Network architecture, 18:25
+T-S fuzzy model with a common input matrix, 19:59
+Ball Beam System, 22:34
+Utility of common input matrix, 25:14
+Proof of Theorem 1, 27:55
+Stability analysis with common input matrix, 37:46
+Stability Analysis: Theorem 2, 38:55
+Proof of Theorem 2, 41:55
+Utility of Theorem 2, 44:47
+Stability Analysis: Theorem 3, 45:28
+Proof of Theorem 3, 47:13
+Utility of Theorem 3, 49:38
+Limitation of Theorem 3, 50:04
+Stability Analysis: Theorem 4, 51:21
+Proof of Theorem 4, 52:10
+Simulation results: Example 1, 52:53
+Surge Tank: Identification, 54:21
+Surge Tank: Controller, 54:41
+Example 2, 56:18
+Linearization, 56:43
+Summary, 58:22

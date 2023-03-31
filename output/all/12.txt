@@ -1,0 +1,11 @@
+Intro, 0:00
+Selforganizing map, 0:41
+Outline, 0:53
+Random Weight Vector, 6:50
+Distance Function, 7:38
+Cooperation, 10:04
+Topological Neighborhood, 12:52
+Gaussian Neighborhood, 14:24
+Electoral Distance, 16:48
+Konan Algorithm, 18:51
+Summary, 52:04

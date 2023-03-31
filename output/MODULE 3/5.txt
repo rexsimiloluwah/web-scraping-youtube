@@ -1,0 +1,12 @@
+Topics To Be Covered, 1:49
+Single Input Single Output Affine System, 2:56
+Feedback Linearization Technique, 4:51
+What Is Feedback Linearization, 4:55
+Theorem 1 for Direct Adaptive Control What Is Direct Adaptive Control, 12:21
+Filter Tracking Error, 15:13
+The Control Law, 16:26
+Proof of Theorem, 22:48
+The Closed Loop Error Dynamics, 34:37
+Simulation Validation, 45:48
+Reference Trajectory, 46:40
+Summary, 52:13

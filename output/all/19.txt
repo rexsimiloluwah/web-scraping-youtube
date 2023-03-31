@@ -1,0 +1,18 @@
+Introduction, 0:00
+Topics, 1:45
+Model, 3:05
+System Identification, 9:25
+Dynamic Range, 10:57
+NonLinear Dynamics, 15:40
+State Space, 17:20
+Problem, 18:14
+Example, 27:29
+Model Validation, 33:39
+Query Based Learning, 35:04
+Network Inversion, 41:05
+QueryBased Learning, 42:29
+Learning the Model, 43:53
+RVF Model, 45:36
+Inversion, 48:32
+Summary, 54:16
+Conclusion, 54:51

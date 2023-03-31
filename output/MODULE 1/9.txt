@@ -1,0 +1,11 @@
+Introduction, 0:00
+Recurrent network, 0:35
+Representation of time, 2:52
+Characteristics, 8:02
+Architecture, 9:00
+Learning algorithm, 14:38
+Back propagation through time, 21:16
+Rolling the network, 26:59
+Feedforward network, 28:44
+Simple network, 43:19
+Weights, 43:59

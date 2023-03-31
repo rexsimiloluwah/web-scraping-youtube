@@ -1,0 +1,8 @@
+Feedback linearization techniques: revisited, 4:17
+Adaptive control laws for SISO systoms: revisited, 11:06
+Adaptive control of MIMO systems, 14:20
+Direct adaptive neural control, 20:06
+Proof of Theorem 1: Weight update low, 32:11
+Proof of Theorem 1: Negative definiteness of, 34:32
+Simulation results: Two-link manipulator, 40:21
+References, 51:09

@@ -1,0 +1,8 @@
+Feed-Forward Network, 1:42
+Update Law for Such Multi-Layer Network Radial Basis Function Network, 3:04
+Motivation for Adaptive Learning Rate, 3:47
+Lyapunov Function, 8:03
+Instantaneous Lf1 Learning Algorithm, 20:37
+Gradient Descent Method, 22:55
+Three Bit Parity Problem, 48:10
+Global Convergence of Lyapunov Based Learning Algorithm, 53:17

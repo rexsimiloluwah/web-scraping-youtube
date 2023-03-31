@@ -1,0 +1,8 @@
+Review, 1:43
+Feed-Forward vs Recurrent Network, 3:11
+Forward Response of the Network, 8:23
+Applying Generalized Delta Rule, 12:11
+Real-Time Recurrent Learning, 13:35
+Example for Back Propagation through Time, 15:41
+System Identification an Example, 44:58
+Rms Error versus Number of Epochs, 53:25

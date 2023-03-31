@@ -1,0 +1,9 @@
+Introduction, 0:00
+Multilayer feedforward network, 2:26
+Notation, 4:14
+Generalized Delta Rule, 20:07
+Weight Update Law, 21:57
+Generalised Delta Rule, 31:39
+System Dynamics, 37:31
+Adaptive Learning Rate, 53:00
+Summary, 57:18

@@ -1,0 +1,8 @@
+T-S model: Linear plant with nonlinear disturbance, 6:06
+Disturbance Terms, 11:03
+The Control Problem, 13:33
+Rule base, 50:05
+Controller Design, 51:56
+Tracking Controller, 52:58
+Controller Parameter - Variation, 55:46
+Performance Comparison, 56:11

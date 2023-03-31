@@ -1,0 +1,10 @@
+Introduction, 0:00
+Presentation Outline, 1:07
+Quantum Clustering, 1:56
+Schrodinger equation, 8:02
+Three classes, 9:45
+Potential vs wave function, 11:31
+Quantum clustering implementation, 15:56
+Visual motor coordination, 20:39
+Collective training, 33:48
+Conclusion, 51:04

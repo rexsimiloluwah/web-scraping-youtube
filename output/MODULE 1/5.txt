@@ -1,0 +1,8 @@
+Lyapunov Stability Theory for Stability of Linear System, 8:52
+How To Linearize a Non-Linear System around an Equilibrium Point, 25:49
+Direct Method, 28:48
+Advantage of a Direct Method over Indirect Method, 31:07
+Application To Control System Design, 38:59
+Trajectory Tracking, 39:09
+Single Link Robot Manipulator, 39:16
+Dynamic Equation, 43:44

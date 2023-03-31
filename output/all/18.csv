@@ -1,0 +1,16 @@
+Intro, 0:00
+Network inversion in Control Consider a gonorio nonlinear system, 2:48
+Modeling using RBF network, 9:44
+Training an RBF network, 13:59
+Network Inversion:Why, 20:16
+Network Inversion Algorithms, 20:40
+Network Inversion: Lyapunov Function Approach, 24:14
+Iterative LF based Inversion algorithm, 30:45
+Extended Kalman Filtering (EKF) based inversion, 31:40
+EKF based inversion algorithm, 36:11
+A Robot Manipulator: The dynamic model, 42:39
+The Control Objective, 45:17
+Inversion algorithm for control input prediction, 47:59
+Simulation Example, 49:35
+Simulation Results, 52:27
+Summary, 59:48

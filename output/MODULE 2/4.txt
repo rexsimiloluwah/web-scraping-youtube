@@ -1,0 +1,10 @@
+Introduction, 0:00
+Why Fuzzy Logic, 1:51
+Types of Fuzzy Control Systems, 4:56
+PID Controller, 8:47
+Physiology Controller, 23:09
+Fuzzy Partition, 25:08
+Fuzzy Control Action, 31:10
+TS Fuzzy Model, 38:58
+Single Link Manipulation, 42:56
+System Dynamics, 47:09

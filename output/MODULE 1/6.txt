@@ -1,0 +1,12 @@
+Intro, 0:00
+Radial Centers, 0:52
+Input Space, 5:41
+Radial Functions, 11:15
+Activation Function, 13:42
+Pseudoinverse, 18:53
+Least square fit, 22:30
+Problem formulation, 27:26
+Example, 35:30
+Conclusion, 39:40
+System Identification, 45:00
+Hybrid Learning, 49:55

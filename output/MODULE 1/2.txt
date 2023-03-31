@@ -1,0 +1,10 @@
+Introduction, 0:00
+Lecture Outline, 0:30
+Nonlinear Activation Function, 3:07
+Gradient Descent Rule, 8:17
+Linearly Separable, 18:03
+Nonlinear Separability, 23:48
+Fit Forward Network, 28:43
+Back Propagation Algorithm, 33:58
+Cost Function, 40:03
+Summary, 49:09

@@ -1,0 +1,9 @@
+Extension Principle of Fuzzy Sets, 1:25
+Example: Many-one mapping, 8:12
+Composition: Example, 22:49
+Projection of Fuzzy Relations, 31:34
+Projection: Example, 33:45
+Projection: Formal definition, 34:47
+Relation Inference, 38:12
+Properties of max-min composition, 41:43
+Summary, 58:11

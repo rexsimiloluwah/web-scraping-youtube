@@ -1,0 +1,16 @@
+Outline, 1:04
+Linear Systems Theory, 2:51
+What is Intelligence ?, 15:47
+An Example from Control Theory, 25:06
+Estimating a Signal, 26:50
+Why Intelligent Control ?, 28:16
+Levels of Intelligence, 31:49
+Neural Networks: A Brief Walkthrough, 38:28
+Neural Networks: Building the Brain, 38:40
+Biological Analogy, 39:07
+Single Link Manipulator, 45:40
+pH Controller, 46:18
+Inertial Wheel Pendulum Stabilization, 48:38
+Self Organizing Map for Binocular Vision System, 50:46
+The Big Question, 52:51
+The Philosophy, 55:01

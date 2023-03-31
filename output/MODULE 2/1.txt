@@ -1,0 +1,19 @@
+Intro, 0:00
+Brief Review of Conventional Sets, 0:54
+Concept of a fuzzy number, 3:12
+Fuzzy Sets: An Introduction, 17:11
+A classical approach, 19:15
+Fuzzy Sets: Contd..., 22:54
+Nomenclature of a fuzzy set, 24:21
+Typical Membership Functions, 25:46
+The Triangular Membership Function, 28:06
+The Gaussian Membership Function, 29:09
+Operations on Fuzzy sets, 30:14
+Fuzzy intersection, 32:30
+Fuzzy Union, 36:13
+Fuzzy Complementation, 41:44
+Other Fuzzy Operations, 44:48
+Properties of Fuzzy Sets, 47:50
+Example: Contd..., 51:40
+Conclusion, 54:07
+Summary, 58:05

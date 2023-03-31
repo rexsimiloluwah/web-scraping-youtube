@@ -1,0 +1,14 @@
+Intro, 0:00
+pH Neutralization Process, 2:19
+The Physical System, 9:21
+pH Reactor dynamics: Nomenclature, 11:16
+Smoothed Search Space, 21:48
+Smooth Search Space, 24:20
+Differential Evolution, 34:15
+DE FLC controller, 42:39
+DE-FLC Design, 43:27
+Parameter optimization using DE, 47:32
+Simulation Response, 48:34
+Experimental setup, 50:26
+Experimental Results, 53:39
+Strategy III, 54:52
