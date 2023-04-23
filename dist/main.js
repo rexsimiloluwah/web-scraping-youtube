@@ -43,7 +43,7 @@ const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 // constants
 const NPTEL_PLAYLIST_ID = "PL460BE04C4E59C01F";
-const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
+const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY; // et this as an environment variable
 const OUTPUT_DIR_NAME = "./output";
 const PUPPETEER_HEADLESS_MODE = false; // change this to hide the headless browser
 class NptelPlaylistItem {
@@ -217,6 +217,11 @@ function fetchNptelPlaylistData() {
         });
     });
 }
+/**
+ * Scrapes the video section markers using puppeteer
+ * @param videoIds // an array of the YouTube video ids
+ * @returns
+ */
 function scrapeNptelVideoSectionsUsingPuppeteer(videoIds) {
     return __awaiter(this, void 0, void 0, function* () {
         try {
@@ -234,7 +239,7 @@ function scrapeNptelVideoSectionsUsingPuppeteer(videoIds) {
                 yield page.waitForSelector(".button.ytd-text-inline-expander");
                 yield page.click(".button.ytd-text-inline-expander");
                 yield page.click("aria/View all[role='button']");
-                // example: get innerHTML of an element
+                // get the innerHTML of all the video marker elements
                 const markers = yield page.$$eval("ytd-macro-markers-list-item-renderer", (els) => els.map((e) => {
                     return e.innerHTML;
                 }));

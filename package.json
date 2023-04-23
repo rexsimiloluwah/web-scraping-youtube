@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "execute": "tsc && node ./dist/main.js",
+    "delete-web-whatsapp-messages": "tsc && node ./dist/delete-web-whatsapp-messages.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
